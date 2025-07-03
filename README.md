@@ -143,7 +143,7 @@ To become a globally recognized brand as Turkey's leading technology company.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/ayrisdev/ayristech.git
+git clone https://github.com/ayrisdev/AyrisTech_Main.git
 cd ayristech
 ```
 

@@ -143,7 +143,7 @@ Türkiye'nin önde gelen teknoloji şirketi olarak küresel çapta tanınan bir 
 1. Repoyu klonlayın
 
 ```bash
-git clone https://github.com/ayrisdev/ayristech.git
+git clone https://github.com/ayrisdev/AyrisTech_Main.git
 cd ayristech
 ```
 
