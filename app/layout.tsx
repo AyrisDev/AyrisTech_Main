@@ -61,7 +61,7 @@ export default async function LocaleLayout(props: Props) {
           {segment !== "studio" && <Footer />}
         </div>
       </body>
-      <GoogleAnalytics gaId="G-YXK4WT039F" />
+      <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_KEY ?? ""} />
     </html>
   );
 }

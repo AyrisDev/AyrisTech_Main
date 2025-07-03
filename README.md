@@ -15,12 +15,15 @@
 AyrisTech is a Turkish technology company established in 2024, specializing in cutting-edge technology solutions. We help businesses unleash their potential through the power of technology and ensure their success in the digital world.
 
 ### 🎯 Our Mission
+
 To unleash the potential of businesses through the power of technology and ensure their success in the digital world.
 
 ### 🚀 Our Vision
+
 To become a globally recognized brand as Turkey's leading technology company.
 
 ### 💼 Our Values
+
 - **Innovation**: Embracing cutting-edge technologies
 - **Quality**: Delivering excellence in every project
 - **Customer Satisfaction**: Putting clients first
@@ -29,6 +32,7 @@ To become a globally recognized brand as Turkey's leading technology company.
 ## 🛠️ Our Services
 
 ### 1. 🤖 AI Solutions
+
 - Machine Learning model development
 - Natural Language Processing (NLP)
 - Computer Vision & Image Recognition
@@ -40,6 +44,7 @@ To become a globally recognized brand as Turkey's leading technology company.
 **Technologies**: Python, TensorFlow, PyTorch, OpenAI GPT, AWS SageMaker
 
 ### 2. ⛓️ Blockchain Solutions
+
 - NFT Marketplace development
 - Smart Contract development
 - DeFi Protocol development
@@ -49,17 +54,20 @@ To become a globally recognized brand as Turkey's leading technology company.
 **Technologies**: Ethereum, Solidity, Web3.js, Polygon, Binance Smart Chain
 
 ### 3. 🌐 Full-Stack Web Development
+
 - Frontend to backend development
 - Modern web technologies
 - Responsive design
 - Progressive web apps
 
 ### 4. 📱 Mobile App Development
+
 - iOS and Android native apps
 - AI-powered mobile applications
 - Cross-platform development
 
 ### 5. 🎮 Unity Game Development
+
 - 2D/3D game development
 - Mobile games
 - VR/AR experiences
@@ -67,16 +75,19 @@ To become a globally recognized brand as Turkey's leading technology company.
 - Multiplayer games
 
 ### 6. 🎯 Steam Game Publishing
+
 - Game publishing on Steam platform
 - Marketing and distribution services
 - Community management
 
 ### 7. 🎨 UI/UX Design
+
 - User experience design
 - Modern interface design
 - User-centered design approach
 
 ### 8. 📈 Social Media Management
+
 - Social media strategy
 - Content creation
 - Brand management
@@ -92,22 +103,26 @@ To become a globally recognized brand as Turkey's leading technology company.
 ## 🛠️ Technical Stack
 
 ### Frontend & Framework
+
 - **Next.js 15** (App Router)
 - **React 19** with TypeScript
 - **Tailwind CSS** for styling
 - **Lucide React** for icons
 
 ### Content Management
+
 - **Sanity CMS** for content management
 - **Sanity Studio** for content editing
 - Support for localized content (Turkish/English)
 
 ### Backend & Database
+
 - **Supabase** for backend services
 - **Sanity** as headless CMS
 - **TypeScript** for type safety
 
 ### Key Features
+
 - ✅ **Multilingual support** (Turkish/English)
 - ✅ **Responsive design** across all devices
 - ✅ **SEO optimization** with metadata management
@@ -119,18 +134,21 @@ To become a globally recognized brand as Turkey's leading technology company.
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js (version 18 or higher)
 - npm, yarn, pnpm, or bun
 
 ### Installation
 
 1. Clone the repository
+
 ```bash
-git clone https://github.com/mustafayildiz/ayristech.git
+git clone https://github.com/ayrisdev/ayristech.git
 cd ayristech
 ```
 
 2. Install dependencies
+
 ```bash
 npm install
 # or
@@ -142,7 +160,8 @@ bun install
 ```
 
 3. Set up environment variables
-Create a `.env.local` file in the root directory and add your environment variables:
+   Create a `.env.local` file in the root directory and add your environment variables:
+
 ```env
 NEXT_PUBLIC_SANITY_PROJECT_ID=your_sanity_project_id
 NEXT_PUBLIC_SANITY_DATASET=your_sanity_dataset
@@ -151,6 +170,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 ```
 
 4. Run the development server
+
 ```bash
 npm run dev
 # or
@@ -211,6 +231,7 @@ Content is managed through Sanity CMS with localized fields for both languages.
 ### Sanity CMS Schema
 
 The project uses Sanity CMS with the following schema types:
+
 - **Projects**: Portfolio items with categories, images, and statistics
 - **Services**: Service descriptions with icons and ordering
 - **Blog Posts**: Multilingual blog content
