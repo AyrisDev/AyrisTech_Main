@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "projects": "Projeler",
+    "blog": "Blog",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Teknolojinin Gücüyle İşletmenizi Geleceğe Taşıyın",
+    "subtitle": "AyrisTech olarak, AI, blockchain, web geliştirme ve oyun teknolojileri alanında uzman çözümler sunuyoruz.",
+    "cta": "Projeni Başlat",
+    "contact": "İletişime Geç"
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Teknolojinin her alanında profesyonel çözümler",
+    "ai": {
+      "title": "AI Çözümleri",
+      "description": "Makine öğrenmesi ve yapay zeka ile işletmenizi optimize edin"
+    },
+    "blockchain": {
+      "title": "Blockchain Çözümleri",
+      "description": "NFT, DeFi ve kripto cüzdan geliştirme hizmetleri"
+    },
+    "web": {
+      "title": "Full-Stack Web Geliştirme",
+      "description": "Modern web teknolojileri ile responsive ve hızlı web siteleri"
+    },
+    "mobile": {
+      "title": "Mobil Uygulama Geliştirme",
+      "description": "iOS ve Android için native ve cross-platform uygulamalar"
+    }
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "description": "2024 yılında kurulan AyrisTech, Türkiye'nin önde gelen teknoloji şirketlerinden biridir.",
+    "mission": "Misyonumuz",
+    "vision": "Vizyonumuz"
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Projeniz için bizimle iletişime geçin",
+    "name": "Ad Soyad",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "send": "Gönder"
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır.",
+    "company": "AyrisTech",
+    "description": "Teknolojinin gücüyle işletmenizi geleceğe taşıyoruz."
+  }
+}

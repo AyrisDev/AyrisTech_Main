@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transform Your Business for the Future with Technology",
+    "subtitle": "As AyrisTech, we provide expert solutions in AI, blockchain, web development, and gaming technologies.",
+    "cta": "Start Your Project",
+    "contact": "Get in Touch"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Professional solutions in every area of technology",
+    "ai": {
+      "title": "AI Solutions",
+      "description": "Optimize your business with machine learning and artificial intelligence"
+    },
+    "blockchain": {
+      "title": "Blockchain Solutions",
+      "description": "NFT, DeFi and crypto wallet development services"
+    },
+    "web": {
+      "title": "Full-Stack Web Development",
+      "description": "Responsive and fast websites with modern web technologies"
+    },
+    "mobile": {
+      "title": "Mobile App Development",
+      "description": "Native and cross-platform applications for iOS and Android"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Founded in 2024, AyrisTech is one of Turkey's leading technology companies.",
+    "mission": "Our Mission",
+    "vision": "Our Vision"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with us for your project",
+    "name": "Full Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "company": "AyrisTech",
+    "description": "We transform your business for the future with the power of technology."
+  }
+}
